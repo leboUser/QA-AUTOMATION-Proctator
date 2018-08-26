@@ -1,0 +1,11 @@
+Diagram 1
+https://dog.ceo/api/breeds/list/all
+
+Diagram 2
+message.retriever
+
+Diagram 3
+https://dog.ceo/api/breeds/list?q={"message": "chesapeake"}
+
+Digram 4
+https://images.dog.ceo/breeds/retriever-golden/n02099601_2980.jpg
