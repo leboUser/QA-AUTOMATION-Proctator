@@ -17,15 +17,19 @@ Requirment
 -Protractor 5
 -npm
 -Node js -version 6 and newer
--python - lastest version 
+-python - lastest version
+-Jasmine allure report
 
 
 step to run the program
-	1) Go to your CMD(Command line) use director to location of Task 2 folder.
+
+
+1) Go to your CMD(Command line) use director to location of Task 2 folder.
 	
-	2)Make sure npm is install
+2)Make sure npm is install.
 	
-	3)Run program using "npm test"
+3)Run program using "npm test"
+
 
 further Questions
 Please contact me email : leboMokaila22@gmail.com
