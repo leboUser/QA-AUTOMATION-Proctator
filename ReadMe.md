@@ -24,7 +24,7 @@ Requirment
 step to run the program
 
 
-1) Go to your CMD(Command line) use director to location of Task 2 folder.
+1)Go to your CMD(Command line) use director to location of Task 2 folder.
 	
 2)Make sure npm is install.
 	
