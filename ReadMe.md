@@ -28,7 +28,7 @@ step to run the program
 	
 2)Make sure npm is install.
 	
-3)Run program using "npm test"
+3)Run program on using "npm test"
 
 
 further Questions
