@@ -6,7 +6,7 @@ contain - list of API code and addresses for Dog Api
 Task 2 Folder
 Contain - Web Task test cases
 
-Use protractor,toolScript,javascript and typescript, npm for packages manager
+Use protractor,javascript and typescript, npm for packages manager
 
 Getting Started
 
