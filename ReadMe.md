@@ -1,21 +1,14 @@
-OPEN SOURCE ASSESSMENT
-
-Task 1 folder 
-contain - list of API code and addresses for Dog Api
-
 Task 2 Folder
 Contain - Web Task test cases
 
-Use protractor,javascript and typescript, npm for packages manager
+Use protractor,npm for packages manager
 
 Getting Started
 
 How to run Task 2 application
 
 Requirment
--Javascript
 -Protractor 5
--npm
 -Node js -version 6 and newer
 -python - lastest version
 -Jasmine allure report
