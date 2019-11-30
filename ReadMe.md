@@ -16,13 +16,14 @@ Requirment
 
 step to run the program
 
-
 1)Go to your CMD(Command line) use director to location of Task 2 folder.
 	
 2)Make sure npm is install.
 	
 3)Run program on using "npm test"
 
+What I have created ?
+Builded Angular test automation.
 
 further Questions
 Please contact me email : leboMokaila22@gmail.com
