@@ -1,11 +1,11 @@
-## Task 2 Folder
+## Proctator
 Contain - Web Task test cases
 
 Use protractor,npm for packages manager
 
 # Getting Started
 
-``How to run Task 2 application``
+``How to run protractor application``
 
 # Requirment
 -Protractor 5
@@ -14,16 +14,8 @@ Use protractor,npm for packages manager
 -Jasmine allure report
 
 
-##  Step to run the program
-
-1)Go to your CMD(Command line) use director to location of Task 2 folder.
-	
-2)Make sure npm is install.
-	
-3)Run program on using "npm test"
-
 ## What I have created ?
-Builded Angular test automation.
+Angular Automation test.
 
 ## Further Questions
 Please contact me email : leboMokaila22@gmail.com
